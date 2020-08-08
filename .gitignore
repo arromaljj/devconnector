@@ -1,0 +1,2 @@
+# Adding whatever modules we dont want to be included in git 
+node_modules/
