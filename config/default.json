@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://arromal:arromal@devconnector.mrjc4.mongodb.net/DevConnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
